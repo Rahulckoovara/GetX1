@@ -19,8 +19,8 @@ class Home2 extends StatelessWidget {
             shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(15.0),
           side: BorderSide(
-            color: Colors.blue, // Specify the border color here
-            width: 2.0,           // Specify the border width here
+            color: Colors.blue, 
+            width: 2.0,           
           ),),
             child: Padding(
               padding: const EdgeInsets.all(8.0),
